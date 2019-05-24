@@ -2,7 +2,7 @@
 
 Created with love by: `Philip Nguyen`
   
-View online at: `Your URL here`
+View online at: `https://github.com/Nguyephi/lab_google_news`
   
 One or two sentence summary of your project. 
 
