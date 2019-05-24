@@ -1,6 +1,6 @@
-# CoderSchool FTW - * Name of Your Project Here *
+# CoderSchool FTW - * Basic Google News Page *
 
-Created with love by: `Your Name Here`
+Created with love by: `Philip Nguyen`
   
 View online at: `Your URL here`
   
@@ -20,9 +20,9 @@ To create a GIF, use [LiceCap](http://www.cockos.com/licecap/), [RecordIt](http:
 
 The following **required** functionalities are completed (this is a sample):
 
-* [ ] The user can see a list of the 20 latest top news stories, loaded dynamically from newsapi.
-* [ ] For each story, the user sees a headline, the source, a link to more, and an image. 
-* [ ] The user can see the total number of stories currently shown.
+* [x] The user can see a list of the 20 latest top news stories, loaded dynamically from newsapi.
+* [x] For each story, the user sees a headline, the source, a link to more, and an image. 
+* [x] The user can see the total number of stories currently shown.
 
 The following **optional** features are implemented:
 
